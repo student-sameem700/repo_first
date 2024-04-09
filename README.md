@@ -1,2 +1,3 @@
 # repo_first
-first repository
+This is my first repository.
+Auter:Sameem akhtar
